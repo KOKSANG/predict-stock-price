@@ -14,6 +14,3 @@ Just run
 
 # Notes
 It is predicting based on the data, not built to forecast yet.
-
-# Credits 
-1. [Siraj](https://github.com/llSourcell)
